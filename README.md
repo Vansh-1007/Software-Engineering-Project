@@ -6,4 +6,7 @@ Group Members
 3. RAJDEEP MANIK(22BDS048)
 4. D SHANMUKHA(22BDS019)
 
-Location of the code is src->main->java->org->example->main
+ro.txt-The text file of the dataset
+pom.xml-The Dependencies file for the dataset
+Main.java-The actual code
+Edge.java and Vertex.java-The classes which we used in Main.java
