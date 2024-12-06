@@ -52,16 +52,13 @@ The GEMSEC Deezer dataset includes:
 - **Result:**
   - All users are connected in a single graph, indicating that all users belong to a single connected component. The count of connected components is **0**.
 
-### Visualization of Results
-![Results](./image.png)
+
 
 ## Conclusion
 - **PageRank:** User **4904** is the most influential user in the Romanian subset of the network.
 - **Triangle Counting:** User **26** has the highest clustering, forming the most triangles.
 - **Connected Components:** The network is fully connected, forming a single graph.
 
-## Acknowledgments
-Special thanks to **Dr. Animesh Chaturvedi**, Assistant Professor, for guiding us throughout this project.
 
 ## References
 1. [GEMSEC Deezer Dataset](https://snap.stanford.edu/data/gemsec-Deezer.html)
